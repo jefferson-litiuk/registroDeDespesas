@@ -117,44 +117,20 @@
       </div>
     </div>
   </div>
-<!--MOdal-->
-  <div class="modal fade" id="sucessoGravacao" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+  <!--MOdal-->
+  <div class="modal fade" id="registraDespesa" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
     aria-hidden="true">
     <div class="modal-dialog" style="z-index: 99999 !important;">
       <div class="modal-content">
 
-        <div class="modal-header text-success">
-          <h5 class="modal-title titulo-modal" id="myModalLabel">Registro inserido com sucesso</h5>
+        <div id="modal_titulo_div">
+          <h5 class="modal-title titulo-modal" id="modal_titulo"></h5>
         </div>
 
-        <div class="modal-body conteudo-modal-pesquisa">
-         Despesa foi cadastrada com sucesso
-        </div>
+        <div class="modal-body conteudo-modal-pesquisa" id="modal_conteudo"></div>
 
         <div class="modal-footer">
-          <button type="button" class="btn btn-success" data-dismiss="modal">Voltar</button>
-
-        </div>
-      </div>
-    </div>
-  </div>
-
-<!--Gravação-->
-<div class="modal fade" id="erroGravacao" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
-    aria-hidden="true">
-    <div class="modal-dialog" style="z-index: 99999 !important;">
-      <div class="modal-content">
-
-        <div class="modal-header text-danger">
-          <h5 class="modal-title titulo-modal" id="myModalLabel">Erro de Gravação</h5>
-        </div>
-
-        <div class="modal-body conteudo-modal-pesquisa">
-          Existem campos obrigatórios que não foram preenchidos
-        </div>
-
-        <div class="modal-footer">
-          <button type="button" class="btn btn-danger" data-dismiss="modal">Voltar e corrigir</button>
+          <button type="button" id="modal_btn" data-dismiss="modal">Voltar</button>
 
         </div>
       </div>
