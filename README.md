@@ -1,14 +1,9 @@
 <h1>
-   <img src="logo1.png">
+   <img src="https://media.giphy.com/media/ZpLESiR8NYWoRl7Jh7/giphy.gif">
 </h1>
 
 <h1>
-<img src="registro.png">
-</h1>
-
-
-<h1>
-<img src="consulta.png">
+<img src="https://media.giphy.com/media/9OPzWLNm5NLNTYJqtu/giphy.gif">
 </h1>
 
 
