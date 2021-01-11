@@ -16,7 +16,7 @@
 O projeto assistente de despesas é um cadastro de despesas onde pode cadastrar, consultar e acompanhar seus gastos ao longo do ano e assim ter um  melhor controle sobre suas despesas. Foi criado com o intuito de colocar em prática todo o conteúdo que estudei durante um curso complementar. 
 
 
-<h3>🖥 Tecnologias ultilizadas</h3>
+<h3>🖥 Tecnologias utilizadas</h3>
 
 
 - javaScript
